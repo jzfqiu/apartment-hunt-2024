@@ -17,7 +17,7 @@ if __name__ == "__main__":
         with open(json_path) as f:
             old_apts = [Apartment(**d) for d in json.load(f)]
     
-    driver = webdriver.Chrome()
+    driver = webdriver.Chrome("/usr/lib/chromium-browser/chromedriver")
     
     new_apts: list[Apartment] = []
     new_apts.extend(get_montaje_apts(driver))
