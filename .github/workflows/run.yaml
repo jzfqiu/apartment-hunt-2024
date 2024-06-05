@@ -17,8 +17,7 @@ jobs:
       run: |
         python -m pip install --upgrade pip
         pip install requests selenium
-    - name: Install Chromedriver
-      uses: nanasess/setup-chromedriver@v2
+        sudo apt-get install chromium-chromedriver    
     - name: Run the script
       env:
         TELEGRAM_MY_CHAT_ID: ${{ secrets.TELEGRAM_MY_CHAT_ID }}
