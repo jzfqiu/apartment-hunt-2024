@@ -1,3 +1,4 @@
+import logging
 import time
 from common import Apartment
 from selenium.webdriver import Chrome
@@ -28,11 +29,13 @@ def _parse_date(date_str) -> str:
 def get_montaje_apts(driver: Chrome) -> list[Apartment]:
     url = "https://livemontaje.com/floorplans/"
 
+    logging.info(f"Montaje: Loading {url}...")
     driver.get(url)
 
     iframe = driver.find_element(By.ID, "embed-frame")
 
-    wait = WebDriverWait(driver, timeout=10)
+    logging.info("Montaje: Waiting for iframe to load...")
+    wait = WebDriverWait(driver, timeout=20)
     wait.until(lambda d: iframe.is_displayed())
 
     time.sleep(2)
@@ -41,6 +44,7 @@ def get_montaje_apts(driver: Chrome) -> list[Apartment]:
 
     apts = []
     for floor in range(1, 19):
+        logging.info(f"Montaje: Reading floor {floor+1}...")
         floor_button = driver.find_element(By.ID, f"floor-item-{floor}")
         floor_button.click()
         buttons = driver.find_elements(By.TAG_NAME, "button")
@@ -64,4 +68,5 @@ def get_montaje_apts(driver: Chrome) -> list[Apartment]:
                 available=_parse_date(available_raw),
             )
             apts.append(apt)
+    logging.info(f"Montaje: Found {len(apts)} apartments.")
     return apts
