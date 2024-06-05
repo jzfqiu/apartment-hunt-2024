@@ -1,0 +1,289 @@
+[
+    {
+        "apt_name": "Montaje",
+        "apt_num": "221",
+        "layout": "1 Bed",
+        "price": 3293,
+        "available": "2024-06-05"
+    },
+    {
+        "apt_name": "Montaje",
+        "apt_num": "226",
+        "layout": "1 Bed",
+        "price": 3295,
+        "available": "2024-06-05"
+    },
+    {
+        "apt_name": "Montaje",
+        "apt_num": "307",
+        "layout": "1 Bed",
+        "price": 3261,
+        "available": "2024-06-22"
+    },
+    {
+        "apt_name": "Montaje",
+        "apt_num": "329",
+        "layout": "1 Bed",
+        "price": 2809,
+        "available": "2024-08-31"
+    },
+    {
+        "apt_name": "Montaje",
+        "apt_num": "330",
+        "layout": "1 Bed",
+        "price": 3287,
+        "available": "2024-06-05"
+    },
+    {
+        "apt_name": "Montaje",
+        "apt_num": "338",
+        "layout": "1 Bed",
+        "price": 3125,
+        "available": "2024-09-03"
+    },
+    {
+        "apt_name": "Montaje",
+        "apt_num": "401",
+        "layout": "1 Bed",
+        "price": 3578,
+        "available": "2024-06-08"
+    },
+    {
+        "apt_name": "Montaje",
+        "apt_num": "402",
+        "layout": "1 Bed",
+        "price": 3920,
+        "available": "2024-06-05"
+    },
+    {
+        "apt_name": "Montaje",
+        "apt_num": "404",
+        "layout": "1 Bed",
+        "price": 3505,
+        "available": "2024-08-31"
+    },
+    {
+        "apt_name": "Montaje",
+        "apt_num": "420",
+        "layout": "2 Bed",
+        "price": 4316,
+        "available": "2024-07-06"
+    },
+    {
+        "apt_name": "Montaje",
+        "apt_num": "521",
+        "layout": "1 Bed",
+        "price": 3257,
+        "available": "2024-08-24"
+    },
+    {
+        "apt_name": "Montaje",
+        "apt_num": "528",
+        "layout": "1 Bed",
+        "price": 3803,
+        "available": "2024-07-02"
+    },
+    {
+        "apt_name": "Montaje",
+        "apt_num": "601",
+        "layout": "1 Bed",
+        "price": 3648,
+        "available": "2024-06-27"
+    },
+    {
+        "apt_name": "Montaje",
+        "apt_num": "602",
+        "layout": "1 Bed",
+        "price": 4065,
+        "available": "2024-08-22"
+    },
+    {
+        "apt_name": "Montaje",
+        "apt_num": "610",
+        "layout": "Studio",
+        "price": 3110,
+        "available": "2024-07-06"
+    },
+    {
+        "apt_name": "Montaje",
+        "apt_num": "619",
+        "layout": "1 Bed",
+        "price": 3687,
+        "available": "2024-07-26"
+    },
+    {
+        "apt_name": "Montaje",
+        "apt_num": "626",
+        "layout": "1 Bed",
+        "price": 3510,
+        "available": "2024-06-05"
+    },
+    {
+        "apt_name": "Montaje",
+        "apt_num": "634",
+        "layout": "1 Bed",
+        "price": 3103,
+        "available": "2024-06-05"
+    },
+    {
+        "apt_name": "Montaje",
+        "apt_num": "701",
+        "layout": "1 Bed",
+        "price": 3538,
+        "available": "2024-06-05"
+    },
+    {
+        "apt_name": "Montaje",
+        "apt_num": "704",
+        "layout": "1 Bed",
+        "price": 3230,
+        "available": "2024-06-14"
+    },
+    {
+        "apt_name": "Montaje",
+        "apt_num": "706",
+        "layout": "1 Bed",
+        "price": 3201,
+        "available": "2024-06-05"
+    },
+    {
+        "apt_name": "Montaje",
+        "apt_num": "717",
+        "layout": "1 Bed",
+        "price": 4003,
+        "available": "2024-07-06"
+    },
+    {
+        "apt_name": "Montaje",
+        "apt_num": "804",
+        "layout": "1 Bed",
+        "price": 3120,
+        "available": "2024-08-03"
+    },
+    {
+        "apt_name": "Montaje",
+        "apt_num": "806",
+        "layout": "1 Bed",
+        "price": 3581,
+        "available": "2024-08-01"
+    },
+    {
+        "apt_name": "Montaje",
+        "apt_num": "810",
+        "layout": "Studio",
+        "price": 3105,
+        "available": "2024-07-13"
+    },
+    {
+        "apt_name": "Montaje",
+        "apt_num": "904",
+        "layout": "1 Bed",
+        "price": 3435,
+        "available": "2024-07-17"
+    },
+    {
+        "apt_name": "Montaje",
+        "apt_num": "906",
+        "layout": "1 Bed",
+        "price": 3271,
+        "available": "2024-06-05"
+    },
+    {
+        "apt_name": "Montaje",
+        "apt_num": "919",
+        "layout": "2 Bed",
+        "price": 5449,
+        "available": "2024-07-30"
+    },
+    {
+        "apt_name": "Montaje",
+        "apt_num": "1208",
+        "layout": "1 Bed",
+        "price": 3924,
+        "available": "2024-07-27"
+    },
+    {
+        "apt_name": "Montaje",
+        "apt_num": "1210",
+        "layout": "Studio",
+        "price": 3070,
+        "available": "2024-06-05"
+    },
+    {
+        "apt_name": "Montaje",
+        "apt_num": "1405",
+        "layout": "1 Bed",
+        "price": 3509,
+        "available": "2024-07-13"
+    },
+    {
+        "apt_name": "Montaje",
+        "apt_num": "1412",
+        "layout": "1 Bed",
+        "price": 4000,
+        "available": "2024-06-05"
+    },
+    {
+        "apt_name": "Montaje",
+        "apt_num": "1803",
+        "layout": "1 Bed",
+        "price": 3550,
+        "available": "2024-06-18"
+    },
+    {
+        "apt_name": "Montaje",
+        "apt_num": "1807",
+        "layout": "1 Bed",
+        "price": 3775,
+        "available": "2024-09-07"
+    },
+    {
+        "apt_name": "Montaje",
+        "apt_num": "1911",
+        "layout": "2 Bed",
+        "price": 4586,
+        "available": "2024-06-05"
+    },
+    {
+        "apt_name": "Montaje",
+        "apt_num": "1913",
+        "layout": "2 Bed",
+        "price": 5556,
+        "available": "2024-06-20"
+    },
+    {
+        "apt_name": "Montaje",
+        "apt_num": "1902",
+        "layout": "2 Bed",
+        "price": 4760,
+        "available": "2024-06-05"
+    },
+    {
+        "apt_name": "Montaje",
+        "apt_num": "1908",
+        "layout": "Studio",
+        "price": 3064,
+        "available": "2024-06-29"
+    },
+    {
+        "apt_name": "Montaje",
+        "apt_num": "2007",
+        "layout": "1 Bed",
+        "price": 3533,
+        "available": "2024-06-05"
+    },
+    {
+        "apt_name": "Montaje",
+        "apt_num": "2009",
+        "layout": "2 Bed",
+        "price": 4951,
+        "available": "2024-06-05"
+    },
+    {
+        "apt_name": "Montaje",
+        "apt_num": "2010",
+        "layout": "1 Bed",
+        "price": 4235,
+        "available": "2024-06-05"
+    }
+]
