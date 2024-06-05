@@ -19,6 +19,7 @@ jobs:
         pip install requests selenium
     - uses: browser-actions/setup-chrome@v1
       with:
+        chrome-version: 125
         install-chromedriver: true
     - name: Run the script
       env:
