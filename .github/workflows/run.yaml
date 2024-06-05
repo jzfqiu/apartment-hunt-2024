@@ -17,7 +17,9 @@ jobs:
       run: |
         python -m pip install --upgrade pip
         pip install requests selenium
-        sudo apt-get install chromium-chromedriver    
+    - uses: browser-actions/setup-chrome@v1
+      with:
+        install-chromedriver: true
     - name: Run the script
       env:
         TELEGRAM_MY_CHAT_ID: ${{ secrets.TELEGRAM_MY_CHAT_ID }}
