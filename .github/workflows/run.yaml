@@ -1,8 +1,8 @@
 name: Run Python Script and Commit Output
 on:
-  schedule:
-    # Runs at every 10 minutes
-    - cron: '*/10 * * * *'
+  # schedule:
+  #   # Runs at every 10 minutes
+  #   - cron: '*/10 * * * *'
   workflow_dispatch:
 jobs:
   run_script_and_commit:
